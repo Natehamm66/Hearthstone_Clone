@@ -9,7 +9,5 @@ public static void main (String[] args) throws IOException{
 	System.out.println("Welcome to Hearthpebble\n");
 	System.out.println("Select your Hero\n1. Rogue\n2. Shaman\n3.Paladin");
 	String select = br.readLine();
-	 Minion[] player1BoardSpace = new Minion[6];
-	 Minion[] player2BoardSpace = new Minion[6];
 	}
 }
